@@ -1,16 +1,43 @@
 # Churn Data Analysis
 
-This repository contains a customer churn data-cleaning and analysis project.
+An end-to-end customer churn analysis project covering data cleaning, exploratory analysis, and interactive dashboard reporting.
 
-## Contents
+## Dashboard preview
 
-- `Churn Dataset Cleaning.ipynb` - notebook used to clean and prepare the data
-- `Churn_Unclean_Project.xlsx` - source workbook
-- `Clean_Churn_Data.csv` - cleaned dataset
-- `Churn Dataset Analysis Dashboard.pbix` - Power BI dashboard
-- `Churn Dataset Cleaning.pdf` - exported project documentation
-- `Complete Project Flow.docx` - project flow documentation
+The Power BI dashboard summarizes customer churn patterns and provides an interactive view of the analysis.
 
-## Project focus
+![Churn analysis dashboard](Screenshot-Dashboard.png)
 
-The project demonstrates a workflow for cleaning customer churn data and presenting analysis results in a Power BI dashboard.
+### Dashboard recording
+
+Watch the dashboard walkthrough to see the report and its visual interactions:
+
+[Open the dashboard recording](Dashboard-Recording.mp4)
+
+## Project workflow
+
+1. Start with the unclean customer churn dataset.
+2. Clean and prepare the data using the Jupyter notebook.
+3. Export the cleaned data for analysis.
+4. Present the findings in an interactive Power BI dashboard.
+
+## Project files
+
+| File | Description |
+| --- | --- |
+| `Churn Dataset Cleaning.ipynb` | Notebook used to clean and prepare the dataset |
+| `Churn_Unclean_Project.xlsx` | Original unclean source workbook |
+| `Clean_Churn_Data.csv` | Cleaned dataset used for analysis |
+| `Churn Dataset Analysis Dashboard.pbix` | Power BI dashboard |
+| `Churn Dataset Cleaning.pdf` | Exported data-cleaning documentation |
+| `Complete Project Flow.docx` | Project workflow documentation |
+| `Screenshot-Dashboard.png` | Dashboard preview image |
+| `Dashboard-Recording.mp4` | Dashboard walkthrough recording |
+
+## Tools used
+
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Microsoft Power BI
