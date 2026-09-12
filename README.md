@@ -10,9 +10,13 @@ The Power BI dashboard summarizes customer churn patterns and provides an intera
 
 ### Dashboard recording
 
-Watch the dashboard walkthrough to see the report and its visual interactions:
+The dashboard walkthrough is embedded below. It is configured to autoplay silently where the browser and GitHub allow it:
 
-[Open the dashboard recording](Dashboard-Recording.mp4)
+<video src="Dashboard-Recording.mp4" autoplay muted loop playsinline controls width="800">
+  Your browser does not support embedded videos. [Open the dashboard recording](Dashboard-Recording.mp4).
+</video>
+
+If autoplay is blocked, use the controls above or [open the dashboard recording](Dashboard-Recording.mp4).
 
 ## Project workflow
 
